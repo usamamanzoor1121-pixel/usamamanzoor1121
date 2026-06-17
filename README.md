@@ -77,6 +77,21 @@ Climate-driven dengue outbreak risk model for Pakistani provinces. Integrates Op
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![NASA](https://img.shields.io/badge/NASA_POWER-Climate_API-0B3D91?style=flat-square)
+---
+
+### 🧬 [Blood Multi-Omics AD x T2DM Pipeline](https://github.com/usamamanzoor1121-pixel/blood-multiomics-ad-t2d)
+
+> **RNA-seq · DNA Methylation · GWAS · ML Classification · Cross-Disease · BIRTHS/BRS Biomarkers**
+
+First integrated multi-omics pipeline applied simultaneously to Alzheimer Disease and Type 2 Diabetes using whole-blood transcriptomics. Novel BIRTHS score (T2DM insulin resistance staging) and BRS score (AD blood biomarker) developed. Leakage-corrected ML pipeline: T2DM SVM AUC=0.906, AD Gradient Boosting AUC=0.602 (consistent with published blood-based AD classification difficulty).
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![sklearn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat-square)
+
+
 
 ---
 
